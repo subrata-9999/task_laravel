@@ -48,6 +48,32 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Active Logic](https://activelogic.com)**
 - **[byte5](https://byte5.de)**
 - **[OP.GG](https://op.gg)**
+- 
+'## How to Set Up
+
+Follow these steps to set up the project on your local machine:
+
+### Prerequisites
+
+- PHP (version X.X.X)
+- Composer (version X.X.X)
+- MySQL (or any other preferred database)
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your/repository.git
+   
+2. **Install dependencies using Composer:**
+   ```bash
+   composer install
+
+3. **Serve the application**
+   ```bash
+   php artisan serve
+
 
 ## Contributing
 
